@@ -1,1 +1,0 @@
-# STEPIK-course-math-and-Python
